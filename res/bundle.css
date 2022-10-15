@@ -1,0 +1,14 @@
+@font-face {
+    font-family: AleoItalic;
+    src: url('./Aleo-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.aleo-italic{
+    font-family: 'AleoItalic';
+}
+
+.title {
+    font-family: 'AleoItalic';
+}
